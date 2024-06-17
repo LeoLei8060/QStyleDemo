@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/qss/black.css</file>
+        <file>res/font/iconfont.ttf</file>
+        <file>res/image/add_bottom.png</file>
+        <file>res/image/add_bottom_blue.png</file>
+        <file>res/image/add_bottom_dev.png</file>
+        <file>res/image/add_left.png</file>
+        <file>res/image/add_left_blue.png</file>
+        <file>res/image/add_left_dev.png</file>
+        <file>res/image/add_right.png</file>
+        <file>res/image/add_right_blue.png</file>
+        <file>res/image/add_right_dev.png</file>
+        <file>res/image/add_top.png</file>
+        <file>res/image/add_top_blue.png</file>
+        <file>res/image/add_top_dev.png</file>
+        <file>res/image/checkbox_checked.png</file>
+        <file>res/image/checkbox_checked_disable.png</file>
+        <file>res/image/checkbox_parcial.png</file>
+        <file>res/image/checkbox_parcial_disable.png</file>
+        <file>res/image/checkbox_unchecked.png</file>
+        <file>res/image/checkbox_unchecked_disable.png</file>
+        <file>res/image/Qt.png</file>
+        <file>res/image/qt-logo.ico</file>
+        <file>res/image/radio_normal.png</file>
+        <file>res/image/radio_normal_disable.png</file>
+        <file>res/image/radio_selected.png</file>
+        <file>res/image/radio_selected_disable.png</file>
+        <file>res/image/myIcon.ico</file>
+        <file>res/text.txt</file>
+    </qresource>
+</RCC>
